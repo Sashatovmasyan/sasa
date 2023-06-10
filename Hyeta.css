@@ -1,0 +1,306 @@
+.wrap{
+    width:90%;
+    max-width:1280px;
+    margin:0 auto;
+}
+
+.syka{
+    margin: 0px;
+}
+
+.hero{
+    background-color:192023;
+    padding: 50px;
+    background-image: url(Untitled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav_list{
+    display: flex;
+    list-style: none;
+}
+
+.nav_list>li>a:hover{
+    color: rgb(255, 128, 0);
+}
+
+.head1{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.nav_list li:not(:last-child){
+    margin-right: 10px;
+}
+
+.list_item a{
+    color: #fff;
+    text-decoration: none;
+    padding-right: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.list_item_1 a{
+    color: orange;
+    text-decoration: none;
+    padding-right: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.text_na_seredine{
+    color: #fff;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.zagolovok{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+    padding: 40px;
+    
+}
+
+.first{
+    text-align: center;
+    color: #f0f0f0;
+}
+
+.hero_btn{
+    background-color: orange;
+    padding: 25px 96px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.two_section{
+    background-color: #12c7a9;
+    padding: 30px;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.card{
+    padding-right: auto;
+    background-color: rgba(0, 0, 0, 0.682);
+    padding: 15px;
+    border-radius: 20px;
+    border: 5px #fb8a007e;
+    border-style: solid;
+}
+.text_card{
+    color: #fff;
+}
+.zagolovok2{
+    color: #fff;
+    text-align: center;
+    padding-top: 40px;
+}
+.section3{
+    background-color: #e4cdb3;
+    padding: 50px;
+}
+.names_section3{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+}
+.zagolovok3{
+    padding: 40px;
+    text-align: center;
+}
+.text_info{
+    text-align: center;
+}
+
+.two_sect{
+    height: 125px;
+}
+
+.mini_circle{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.text_top_Sec3{
+    color: rgba(0, 0, 0, 0.622);
+    text-decoration: none;
+}
+
+.sect_three{
+    background-color: rgba(154, 154, 154, 0.681);
+}
+
+.zagolovok4{
+    text-align: center;
+    padding: 10px;
+}
+
+.procents{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.card_all{
+    text-align: center;
+}
+
+.svg_three{
+    height: 125px;
+}
+
+.nav_list2{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.section5{
+    background-image: url(shalava3.0.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
+
+.cards_with_PC{
+    padding: 10px;
+}
+.zagolovok5{
+    text-align: center;
+    color:white
+}
+
+.plan_li li{
+    text-align: left;
+}
+
+.button_f_h{
+    color:orange;
+    text-decoration: none;
+}
+
+.prise{
+    color: orange;
+}
+
+.cards_two{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.card_two{
+    padding-right: auto;
+    background-color: rgba(0, 0, 0, 0.682);
+    padding: 15px;
+    border-radius: 20px;
+    border: 5px #fb8a007e;
+    border-style: solid;
+}
+.text_card_two{
+    color: #fff;
+}
+
+.button a{
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button{
+    margin: 0 auto;
+    width: 247px;
+    text-align: center;
+    padding: 10px;
+    background-color: orange;
+}
+.section6{
+    background-color: #e4cdb3;
+    padding: 50px;
+}
+.zagolovok6 {
+    text-align: center;
+    
+    padding-bottom: 30px;
+}
+.circle{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #a8a4a4;
+}
+.comments {
+    display: flex;
+    justify-content: space-evenly;
+}
+.card6 {
+    display: flex;
+}
+.text6 {
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+
+.circle6 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-image: url(gachi1.png);
+    background-repeat: no-repeat;
+}
+.name6 {
+    margin-bottom: -15px;
+}
+.forma {
+    background-color: rgba(154, 154, 154, 0.681);
+    padding: 50px;
+}
+.zagolovok_form {
+    text-align: center;
+    color: #fff;
+}
+.data {
+    display: flex;
+    justify-content: center;
+    height: 30px;
+}
+.form7 {
+    display: block;
+    text-align: center;
+}
+.pole {
+    padding: 10px;
+}
+.textpole {
+    background-color: rgba(154, 154, 154, 0.681);
+    border-style: none;
+}
+.button_in_form {
+    background-color: #ffe6a7;
+    border-style: none;
+    padding: 12px;
+}
+.section8 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    background-color: rgba(91, 91, 91, 0.681);
+}
+.futor_button {
+    color: #f0f0f0;
+    text-decoration: none;
+    padding-right: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
